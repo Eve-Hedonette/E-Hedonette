@@ -5,5 +5,5 @@ My professor first gave us our passages using Google Docs and instructed us on w
 It was very easy to translate my passage from plain text to code, the system of tagging I am actually familiar with because of an app called _Amino_ which uses a similar system for their blogs. On my own time, I inserted all the appropriate tags for my passage, and when I went to class all I had to do was copy and paste it into the program and I was done. 
 ![Marked up Google Doc](https://eve-hedonette.github.io/E-Hedonette/images/TEI.PNG)
 The only issue I had was the quotation marks not being registered, which was easily resolved since my professor announced at the beginning of class how to fix that. Within less than ten minutes I had a very professional and functional piece of encoded literature.
-![Oxygen Code](https://eve-hedonette.github.io/E-Hedonette/images/)
+![Oxygen Code](https://eve-hedonette.github.io/E-Hedonette/images/Screenshot.png)
 All in all, it was a very easy and interesting experience that definitely dulled my fears of coding. It also reinforced my belief that attention to detail can make or break some projects, and that it never hurts to be extra thorough when reviewing your work. I’m very glad I got to work on this project.
